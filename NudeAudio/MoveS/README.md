@@ -1,3 +1,6 @@
+# Nude Audio Move S
+![Move S](https://rawgit.com/UniQHW/Fritzing-Parts/master/NudeAudio/MoveS/MoveS_Breadboard.svg)
+
 ### Pin Out
 
 This section lists all exposed pins on the Nude Audio Move S Circuit board :
