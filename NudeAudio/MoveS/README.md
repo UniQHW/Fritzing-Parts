@@ -35,6 +35,7 @@ This section lists all exposed pins on the Nude Audio Move S Circuit board :
 
 ### Device Flow
 This flowchart gives a rough overview about the device runtime : 
+![Runtime Process](MoveS_RuntimeProcess.png)
 
 ### Exploitation
 The Nude Audio Move S comes with a fairly hackable circuit. 
