@@ -3,7 +3,7 @@ A collection of UniQHW SVGs and Fritzing parts
 
 ### Components
 
-#### Nude Audio
+#### [Nude Audio](https://github.com/UniQHW/Fritzing-Parts/tree/master/NudeAudio/MoveS)
 ---
 - Move S
 
